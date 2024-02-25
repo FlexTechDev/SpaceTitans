@@ -1,0 +1,6 @@
+2024/02/24-00:12:44.667 4a34 Creating DB C:/Users/Osprey/Documents/Unreal Projects/SpaceTitans/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/02/24-00:12:44.675 4a34 Reusing MANIFEST C:/Users/Osprey/Documents/Unreal Projects/SpaceTitans/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/24-00:14:08.438 4a34 Level-0 table #5: started
+2024/02/24-00:14:08.481 4a34 Level-0 table #5: 1299 bytes OK
+2024/02/24-00:14:08.483 4a34 Delete type=0 #3
+2024/02/24-00:14:08.495 4a34 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
